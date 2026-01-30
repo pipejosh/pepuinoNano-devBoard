@@ -1,6 +1,7 @@
 # Pepuino Nano V1
 
-This is a develpment board, that is ahead of its time, featuring and amazing design, and a RP2040, custom made from scratch following the diagram from the pico
+This is a develpment board, that is ahead of its time (theres nothing futuristic about it hehe), featuring and amazing design, and a RP2040, custom made from scratch following the diagram from the pico
+
 
 ## Images!!
 
@@ -19,3 +20,4 @@ This is a develpment board, that is ahead of its time, featuring and amazing des
 ### BOM
 
 ![BOM](images/BOM.png) 
+
