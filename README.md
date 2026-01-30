@@ -4,6 +4,8 @@ This is a develpment board, that is ahead of its time, featuring and amazing des
 
 ## Images!!
 
+![Project done](images/projectDone.png)
+
 ### Renders
 ![Render front](images/renderFront.png) 
 ![Render back](images/renderBack.png) 
